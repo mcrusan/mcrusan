@@ -1,6 +1,6 @@
 @mcrusan
 - Marc F Crusan
-- mcrusan@hotmail.com
+- marc@crusan.net
 
 <!---
 mcrusan/mcrusan `README.md` (this file) appears on your GitHub profile.
