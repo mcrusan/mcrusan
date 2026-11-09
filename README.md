@@ -11,6 +11,7 @@ Version:     v2.0.0-Silicon
 
 # Marc F. Crusan (`@mcrusan`)
 ### **Founder & Chief Systems Architect — Crusan & Co. // Creator of [AxisOS™](https://axisos.pro)**
+> **30+ yrs exp. ([see Bio](./BIO.md)) | Former U.S. Army Infantry SSG (`11B3G`). Founder, Crusan & Co. — building AxisOS™, a distributed micro-enterprise solution. Updated: `20261109`**
 
 [![AxisOS™: HONEST • AUDITABLE • OWNED](https://img.shields.io/badge/AxisOS%E2%84%A2-HONEST%20%E2%80%A2%20AUDITABLE%20%E2%80%A2%20OWNED-brightgreen.svg)](https://axisos.pro)
 [![Architecture: Freestanding C99 & Bare-Metal Silicon](https://img.shields.io/badge/Stack-Freestanding%20C99%20%E2%80%A2%20ARM64%20%E2%80%A2%20RP2350-blue.svg)](https://axisos.pro)
