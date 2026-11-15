@@ -1,12 +1,15 @@
-# -----------------------------------------------------------------------------
-# File:        README.md
-# Description: Official GitHub Profile README for Marc F. Crusan — Founder & Chief Systems Architect of Crusan & Co. and Creator of AxisOS™.
-# Author:      Marc F. Crusan (MFC) / Crusan & Co. w/ PP & AGY (AXEL)
-# Date:        2026111501
-# Version:     v2.1.0-Silicon
-# -----------------------------------------------------------------------------
-# 2026111501 (MFC/AGY) Calibrated shipping vs. planned availability, removed absolute benchmark/immunity claims, and added GitHub Sponsors link.
-# 2026110901 (MFC/PP/AGY) Upgraded GitHub Profile README to Crusan & Co. / AxisOS™ v2.0.0-Silicon standard.
+<!--
+------------------------------------------------------------------------------
+File:        README.md
+Description: Official GitHub Profile README for Marc F. Crusan — Founder & Chief Systems Architect of Crusan & Co. and Creator of AxisOS™.
+Author:      Marc F. Crusan (MFC) / Crusan & Co. w/ PP & AGY (AXEL)
+Date:        2026111502
+Version:     v2.1.1-Silicon
+------------------------------------------------------------------------------
+-->
+<!-- 2026111502 (MFC/AGY) Restored hidden comment header block so GitHub Markdown renders cleanly without H1 header lines. -->
+<!-- 2026111501 (MFC/AGY) Calibrated shipping vs. planned availability and added GitHub Sponsors link. -->
+<!-- 2026110901 (MFC/PP/AGY) Upgraded GitHub Profile README to Crusan & Co. / AxisOS™ v2.0.0-Silicon standard. -->
 
 # Marc F. Crusan (`@mcrusan`)
 ### **Founder & Chief Systems Architect — Crusan & Co. // Creator of [AxisOS™](https://axisos.pro)**
