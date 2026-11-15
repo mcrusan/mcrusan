@@ -1,0 +1,10 @@
+# -----------------------------------------------------------------------------
+# File:        FUNDING.yml
+# Description: GitHub Sponsors configuration for Crusan & Co. / @mcrusan repositories.
+# Author:      Marc F. Crusan (MFC) / Crusan & Co. w/ PP & AGY (AXEL)
+# Date:        2026111501
+# Version:     v1.0.0
+# -----------------------------------------------------------------------------
+# 2026111501 (MFC/AGY) Added GitHub Sponsors funding configuration for @mcrusan.
+
+github: [mcrusan]
