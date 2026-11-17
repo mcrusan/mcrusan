@@ -25,7 +25,7 @@ Version:     v2.1.1-Silicon
 - **Sponsor Open-Source R&D:** **[github.com/sponsors/mcrusan](https://github.com/sponsors/mcrusan)**
 - **Contact:** `marc@crusan.net`
 - **Full Background:** **[Read BIO.md](./BIO.md)**
-
+- Doh! Just call me the Homer Simpson of the computer world... A moment of brilliance followed by a lifetime of idiocy.
 ---
 
 ## 🛠️ What We Build at Crusan & Co.
